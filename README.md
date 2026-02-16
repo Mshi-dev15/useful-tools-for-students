@@ -40,4 +40,4 @@ Each section is written by a different team member.
 - Templates and design tools  
 - Collaboration features
 - Tips for creating visually appealing work
--   
+    
