@@ -68,6 +68,6 @@ Notion is a versatile workspace for notes, project planning and organization.
 * ***Leverage Grids and Frames***: Instead of "naked" images placed randomly, use Frames to house photos in clean shapes (circles, borders, etc.) for a more polished look.
 * ***Ensure High Contrast***: To maintain readability, pair light text with dark backgrounds or vice versa. If a background photo is too light for text, use the Transparency tool to fade the image slightly. 
 4. **Workflow Shortcuts for a Polished Finish**
-* ***Customize Templates: Don't use a template exactly as it appears. Change colors, swap photos, and adjust fonts to match your specific brand or project goals.
+* ***Customize Templates***: Don't use a template exactly as it appears. Change colors, swap photos, and adjust fonts to match your specific brand or project goals.
 * ***Use Brand Kits***: For Pro users, save your logo, signature fonts, and brand colors in the Brand Kit to ensure consistency across multiple projects.
 * ***Add Subtle Motion***: Incorporate Animations to draw attention to key elements, but use them sparingly to avoid distracting from your message. 
