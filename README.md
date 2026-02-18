@@ -211,7 +211,7 @@ Templates save time and provide a structured starting point for organizing acade
 
   
 ## Canva
-**<ins>Basic introduction to canva</ins>**
+**<ins>Basic Introduction to Canva</ins>**
 
 * *Canva* is a user-friendly, web-based graphic design platform launched in 2013 with the goal of making design accessible to everyone, regardless of skill level. It operates on a "freemium" model, allowing users to create, edit, and share designs using a drag-and-drop interface.
 
