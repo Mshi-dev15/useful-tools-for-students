@@ -114,7 +114,7 @@ If you are new to VS code, consider the following tips:
 
 **VS code** is not just a code editor; it is a complete learning tool that helps students to be confident programmers.
 
-=======
+
 ## Notion  
 ### Basic Introduction to Notion
 
