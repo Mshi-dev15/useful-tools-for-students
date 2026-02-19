@@ -277,3 +277,11 @@ main
 * ***Customize Templates***: Don't use a template exactly as it appears. Change colors, swap photos, and adjust fonts to match your specific brand or project goals.
 * ***Use Brand Kits***: For Pro users, save your logo, signature fonts, and brand colors in the Brand Kit to ensure consistency across multiple projects.
 * ***Add Subtle Motion***: Incorporate Animations to draw attention to key elements, but use them sparingly to avoid distracting from your message. 
+
+
+
+## Resources
+
+- Official VS Code website: https://code.visualstudio.com/
+- Canva: https://www.canva.com/
+- Notion Guide: https://www.notion.so/help
