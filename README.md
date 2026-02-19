@@ -211,7 +211,7 @@ Templates save time and provide a structured starting point for organizing acade
 
   
 ## Canva
-**<ins>Basic introduction to canva</ins>**
+**<ins>Basic Introduction to Canva</ins>**
 
 * *Canva* is a user-friendly, web-based graphic design platform launched in 2013 with the goal of making design accessible to everyone, regardless of skill level. It operates on a "freemium" model, allowing users to create, edit, and share designs using a drag-and-drop interface.
 
@@ -241,8 +241,8 @@ Templates save time and provide a structured starting point for organizing acade
 * Categories: Social media posts (Instagram, TikTok), presentations, flyers, resumes, videos, logos, websites, and posters.
 * Search & Filter: Browse via the homepage, using filters for style, theme, color, and format.
 * Customization: All elements, including fonts, colors, and images, are editable. 
-***Essential Design Tools***
 
+  ***Essential Design Tools***
 * Magic Studio (AI Tools): Includes Magic Write (text generation), Magic Design (AI-generated layouts), Magic Media (text-to-image/video), and Magic Switch (instant resizing/translating).
 * Editing Tools: Magic Eraser (remove objects), Magic Edit (replace elements), and Background Remover.
 * Layout & Elements: A "Tools Tab" featuring shapes, lines, frames, and grids for building designs.
