@@ -350,3 +350,33 @@ main
 - Canva: https://www.canva.com/
 - Notion Guide: https://www.notion.so/help
  main
+
+
+## Table of contents
+## notion
+* Introduction
+* Purpose of notion to students
+* Note-taking and organisation features
+
+## Visual studio code (vs code)
+* Introduction
+* Supported programming languages
+* Useful extension for students
+* Overview of code features
+
+***Python***
+* Key features
+* Python support in vs code
+* Git integration
+* Debugging tools
+* Theme and customization
+* How vs code helps students write, test and debug efficiently
+* Tips for beginners
+
+## Canva
+* Basic introduction to canva
+* Here are the key points to introduction to canva
+* Types of projects students can make
+* Templates and design tools
+* Collaboration features
+* Tips for creating visually appealing work
