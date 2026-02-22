@@ -353,30 +353,31 @@ main
 
 
 ## Table of contents
-## notion
-* Introduction
-* Purpose of notion to students
-* Note-taking and organisation features
 
-## Visual studio code (vs code)
-* Introduction
-* Supported programming languages
-* Useful extension for students
-* Overview of code features
+## [Notion](#notion)
+* [Introduction](#introduction)
+* [Purpose of notion to students](#purpose-of-notion-to-students)
+* [Note-taking and organisation features](#note-taking-and-organisation-features)
+
+## [Visual studio code (vs code)](#visual-studio-code-vs-code)
+* [Introduction](#introduction-1)
+* [Supported programming languages](#supported-programming-languages)
+* [Useful extension for students](#useful-extension-for-students)
+* [Overview of code features](#overview-of-code-features)
 
 ***Python***
-* Key features
-* Python support in vs code
-* Git integration
-* Debugging tools
-* Theme and customization
-* How vs code helps students write, test and debug efficiently
-* Tips for beginners
+* [Key features](#key-features)
+* [Python support in vs code](#python-support-in-vs-code)
+* [Git integration](#git-integration)
+* [Debugging tools](#debugging-tools)
+* [Theme and customization](#theme-and-customization)
+* [How vs code helps students write, test and debug efficiently](#how-vs-code-helps-studnets-write-test-and-debug-efficiently)
+* [Tips for beginners](#tips-for-beginners)
 
-## Canva
-* Basic introduction to canva
-* Here are the key points to introduction to canva
-* Types of projects students can make
-* Templates and design tools
-* Collaboration features
-* Tips for creating visually appealing work
+## [Canva](#canva)
+* [Basic introduction to canva](#basic-introduction-to-canva)
+* [Here are the key points to introduction to canva](#here-are-the-key-points-to-introduction-to-canva)
+* [Types of projects students can make](#types-of-projects-students-can-make)
+* [Templates and design tools](#templates-and-design-tools)
+* [Collaboration features](#collaboration-features)
+* [Tips for creating visually appealing work](#tips-for-creating-visually-appealing-work)
