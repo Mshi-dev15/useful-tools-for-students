@@ -1,5 +1,8 @@
+ add-vscode-section
  HEAD
 
+
+ main
   ## Canva
 **<ins>Basic introduction to canva</ins>**
 
@@ -55,7 +58,9 @@
 * ***Use the Rule of Thirds***: Mentally divide your canvas into a 3x3 grid. Placing key elements at the intersection points of these lines creates a naturally balanced and engaging composition.
 * ***Align Elements Precisely***: Use Canva's Tidy Up tool (under the Position menu) to ensure icons, text boxes, and images are perfectly aligned and evenly spaced. 
 
- 079a053 (Initial commit)
+add-vscode-section
+ 
+main
  add-vscode-section
  HEAD
   
@@ -191,6 +196,7 @@ If you are new to VS code, consider the following tips:
 
 **VS code** is not just a code editor; it is a complete learning tool that helps students to be confident programmers.
 
+add-vscode-section
  HEAD
 
 ## Notion  
@@ -287,9 +293,11 @@ Popular student templates include:
 
 Templates save time and provide a structured starting point for organizing academic work.
 
- 8afca50 (update vs code section with detailed notion content)
+ 
 
-079a053 (Initial commit)
+ main
+
+
 
 ## Notion  
 ### Basic Introduction to Notion
@@ -385,6 +393,7 @@ Popular student templates include:
 
 Templates save time and provide a structured starting point for organizing academic work.
 
+ add-vscode-section
  HEAD
   
 ## Canva
@@ -395,47 +404,41 @@ Templates save time and provide a structured starting point for organizing acade
 ## Here are key points for an introduction to Canva:
 <ins>Core Functionalities & Features</ins>
 
-* Drag-and-Drop Interface: Simplifies the design process, making it ideal for beginners, marketers, and non-designers.
-* Extensive Template Library: Offers thousands of pre-designed, customizable templates for presentations, social media posts, flyers, infographics, and posters.
-* Design Assets: Provides a vast library of stock photos, illustrations, shapes, icons, and fonts.
-* Multipurpose Use: Beyond static images, it supports video editing, website creation, and print products (e.g., mugs, t-shirts).
-* Magic Studio (AI Tools): Includes AI-powered features like "Magic Design" (creates layouts from prompts), "Magic Write" (copywriting assistant), and "Magic Grab" (edits elements in photos).
+ main
 
-## Types of projects students can make
 
-* Presentations & Reports: Dynamic slide decks, interactive lessons, and digital reports.
-* Visual Aids: Infographics, posters, flyers, and brochures for research or marketing.
-* Multimedia: Short videos, YouTube video clips, GIFs, and animations.
-* Creative & Personal: Digital stories, photo collages, custom invitations, and virtual vision boards.
-* Academic & Organization: Mind maps, timelines, Venn diagrams, and study guides.
-* Professional Development: Resumes, portfolios, and professional websites.
-* Social Media Content: Instagram reels, stories, and post graphics.
 
-## Templates and design tools
+## Resources
 
-***Key Canva Templates***
+- Official VS Code website: https://code.visualstudio.com/
+- Canva: https://www.canva.com/
+- Notion Guide: https://www.notion.so/help
+ main
 
-* Categories: Social media posts (Instagram, TikTok), presentations, flyers, resumes, videos, logos, websites, and posters.
-* Search & Filter: Browse via the homepage, using filters for style, theme, color, and format.
-* Customization: All elements, including fonts, colors, and images, are editable. 
-***Essential Design Tools***
 
-* Magic Studio (AI Tools): Includes Magic Write (text generation), Magic Design (AI-generated layouts), Magic Media (text-to-image/video), and Magic Switch (instant resizing/translating).
-* Editing Tools: Magic Eraser (remove objects), Magic Edit (replace elements), and Background Remover.
-* Layout & Elements: A "Tools Tab" featuring shapes, lines, frames, and grids for building designs.
-* Workflow Tools: Brand Kit (for logos and fonts), shared folders, and real-time collaboration.
+## Table of contents
 
-## Collaboration features
-*the following demonstrates how to set up a team and start collaborating in Canva:*
-* **Real-Time Editing**: Multiple users can edit the same design, presentation, or Canva Doc simultaneously, with changes instantly reflected.
-* **Comments & Feedback**: Users can leave comments on specific elements, tag colleagues using "@", and resolve discussions.
-* **Sharing & Permissions**: Designs can be shared with specific people via email or via a link with tailored permissions for viewing, editing, or commenting.
-* **Team Workspaces & Folders**: Shared folders allow teams to centralize projects, brand assets, and templates, keeping everyone organized.
-* **Design Approvals**: A built-in approval workflow allows users to request feedback, and reviewers can approve or return designs with comments.
-* **Whiteboards**: Ideal for brainstorming, Whiteboards feature sticky notes, reactions, and the ability to "follow" a user's view for guided presentations.
+## [Notion](#notion)
+* [Introduction](#introduction)
+* [Purpose of notion to students](#purpose-of-notion-to-students)
+* [Note-taking and organisation features](#note-taking-and-organisation-features)
 
-## Tips for creating a visually appealing work
+## [Visual studio code (vs code)](#visual-studio-code-vs-code)
+* [Introduction](#introduction-1)
+* [Supported programming languages](#supported-programming-languages)
+* [Useful extension for students](#useful-extension-for-students)
+* [Overview of code features](#overview-of-code-features)
 
+***Python***
+* [Key features](#key-features)
+* [Python support in vs code](#python-support-in-vs-code)
+* [Git integration](#git-integration)
+* [Debugging tools](#debugging-tools)
+* [Theme and customization](#theme-and-customization)
+* [How vs code helps students write, test and debug efficiently](#how-vs-code-helps-studnets-write-test-and-debug-efficiently)
+* [Tips for beginners](#tips-for-beginners)
+
+add-vscode-section
  **Master Layout & Composition**
 * ***Embrace Negative Space***: Do not feel the need to fill every corner. "White space" (which doesn't have to be white) allows your design to "breathe" and prevents a cluttered, overwhelming look.
 * ***Establish a Focal Point***: Determine the most important part of your message and make it the most prominent using scale, bold colors, or central positioning.
@@ -488,6 +491,8 @@ main
 * [How vs code helps students write, test and debug efficiently](#how-vs-code-helps-studnets-write-test-and-debug-efficiently)
 * [Tips for beginners](#tips-for-beginners)
 
+
+ main
 ## [Canva](#canva)
 * [Basic introduction to canva](#basic-introduction-to-canva)
 * [Here are the key points to introduction to canva](#here-are-the-key-points-to-introduction-to-canva)
@@ -495,4 +500,6 @@ main
 * [Templates and design tools](#templates-and-design-tools)
 * [Collaboration features](#collaboration-features)
 * [Tips for creating visually appealing work](#tips-for-creating-visually-appealing-work)
-079a053 (Initial commit)
+add-vscode-section
+
+ main
