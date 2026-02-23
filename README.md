@@ -61,17 +61,17 @@
   
 ## Visual Studio Code (VS code)
 **Introduction**
-------------------------------------------------------------------------
+---
 Visual Studio code (VS code) is a free, lightweight,and powerful code editor developed by Microsoft, It helps students write, run and debug programs efficiently.
 
------------------------------------------------------------
+---
 ### Supported Programming languages
 VS code supports many programming languages such as:
 1. Python
 2. JavaScript
 3. HTML & CSS
 4. Java
----------------------------------------------------
+---
    ### Useful Extensions for Students
 One  of the biggest strengths of VS Code is its extension marketplace. Extension allows you to add extra features to the editor
 
@@ -82,7 +82,7 @@ One  of the biggest strengths of VS Code is its extension marketplace. Extension
 5. **Debugger**- Helps to detect errors
 6. **Themes**- Improve appearance and readability
 
-   ------------------------------------------------
+   ---
  ### Overview of vs code features
    The following features are what makes Vs code a powerful and beginner-friendly
 
@@ -90,7 +90,7 @@ One  of the biggest strengths of VS Code is its extension marketplace. Extension
 - *Smart code suggestions*- Suggest codes while you type, complete words for your and helps to prevent errors.
 - *Debugging tool*- This feature find and fixes mistakes (bugs) in you code.
 
-  -------------------------------------------------------
+  ---
  ### Python
   *Python* is a high-level, interpreted programming language known for its simplicity and readability.
  ### Key features
@@ -99,7 +99,26 @@ One  of the biggest strengths of VS Code is its extension marketplace. Extension
   - Cross platform- Works on Windows, macOS, Linux and more.
   - Open source - Free to use and supported by a large global community.
 
-    -------------------------------------
+    ---
+
+    ## Visual Studio Code
+
+Visual Studio Code (VS Code) is a free and open-source source code editor developed by Microsoft. It is designed to help developers write, edit, and manage code efficiently.
+
+VS Code supports multiple programming languages including Python, Java, C++, and JavaScript. It runs on Windows, macOS, and Linux operating systems.
+
+### Main Features of Visual Studio Code
+
+- Lightweight and fast performance  
+- Built-in terminal  
+- Extensions marketplace  
+- Integrated debugging tools  
+- Built-in Git support  
+- Customizable interface  
+
+VS Code is widely used by students and professional developers because it provides powerful tools while remaining simple and easy to use.
+
+...
 ### Python support in VS code
 VS Code provides excellent support for python through the official python extention. Python is a beginner friendly language with simple syntax and when combined with 
 VS Code, it becomes a powerful learning environment
@@ -111,7 +130,7 @@ With python extension installed, students can:
 - Run python programs using the built in terminal.
 - Debug python programs step by step.
 
-  -----------------------
+  ---
   ### Git Integration
  VS code has a built-Git integration, which makes version control easier for students. You can:
   - stage changes
@@ -122,7 +141,7 @@ With python extension installed, students can:
     
 These features  are very important for teamwork because it helps to track changes and prevent losing work.
 
-------------
+---
 ### Debugging Tools
 
 **A debugging tool** is a tool that helps to find and fix mistakes (bugs) in code.
@@ -135,7 +154,7 @@ These features  are very important for teamwork because it helps to track change
 
  Debugging helps students understand how their code runs and improves problems-solving skills.
  
- ----------------------------------
+ ---
  ### Theme and Customization
  VS code allows users to customize their environment for comfort and productivity.
  Students can:
@@ -146,7 +165,7 @@ These features  are very important for teamwork because it helps to track change
    
 A comfortable coding environment reduces eye strain and improves focus during long study sessions.
 
-----------
+---
 ### How VS code Helps Students Write, Test and Debug Efficiently
 
 VS code improve productivity by combining writing, testing and debugging tools in one place.
@@ -156,7 +175,7 @@ VS code improve productivity by combining writing, testing and debugging tools i
 3. Debugging tools help identify and fix problems quickly.
 4. Git integration supports collaboration and project management.
 
-   ----------------------------------------
+   ---
 
 ### Tips for Beginners
 
